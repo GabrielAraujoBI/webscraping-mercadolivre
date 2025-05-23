@@ -1,0 +1,6 @@
+venv_webscrapping/
+__pycache__/
+*.pyc
+logs/
+outputs/
+.env
